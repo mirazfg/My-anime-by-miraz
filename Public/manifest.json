@@ -1,0 +1,21 @@
+{
+  "name": "My Anime by Miraz",
+  "short_name": "MirazAnime",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050B14",
+  "theme_color": "#00D1FF",
+  "description": "The official anime discovery platform by Yasir Arafath (Miraz).",
+  "icons": [
+    {
+      "src": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
